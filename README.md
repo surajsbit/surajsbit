@@ -1,5 +1,16 @@
 
-<h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
+<body style="background-color:WhiteSmoke;">
+
+
+<h1 align="center">नमस्कार! 🙏 </h1>
+ 
+<div align = 'center'>
+ <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=ff0073&fontStyle=samakaran&text=Suraj%20Kumar&height=150&fontSize=80&desc=Bihar,%20IN&descAlignY=75&descAlign=72"/></div>
+ 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=39ff14&center=true&lines=Programmer;Data+Analyst;Data+Scientist;Machine+Learning&center=true&width=380&height=45"/><br>
+ <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
+</p>
 <h3 align="center">A Programmer, with problem solving skills, passionate about Data Science and ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajsbit&label=Profile%20views&color=129e00&style=plastic" alt="surajsbit" /> </p>
