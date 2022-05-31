@@ -1,17 +1,15 @@
+
 <h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
-<h3 align="center">A passionate Data Analyst and Data Scientist from India.</h3>
+<h3 align="center">Programmer||Data Analyst || Data Scientist || Story Teller || Writer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajsbit&label=Profile%20views&color=0e75b6&style=flat" alt="surajsbit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajsbit&label=Profile%20views&color=129e00&style=plastic" alt="surajsbit" /> </p>
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif?format=750w">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajsbit" alt="surajsbit" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning.**
-
-- 💬 Ask me about **Data Scientist, Data Analyst, ML Algorithms, NLP.**
 
 - 📫 How to reach me **surajsbit@outlook.com**
 
-- ⚡ Fun fact **I think I am Standup Comedian.**
+- ⚡ Fun fact **I think I am Standup Comedian**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
