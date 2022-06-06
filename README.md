@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=39ff14&center=true&lines=Programmer;Data+Analyst;Data+Scientist;Machine+Learning&center=true&width=380&height=45"/><br>
  <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
 </p>
-<h3 align="center">A Programmer, with problem solving skills, passionate about Data Science and ML</h3>
+<h3 align="center">A Programmer with problem solving skill, passionate about Data Science and ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajsbit&label=Profile%20views&color=129e00&style=plastic" alt="surajsbit" /> </p>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif?format=750w">
